@@ -59,6 +59,7 @@
             <arguments>-Psonatype-oss-release</arguments>
           </configuration>
         </plugin>
+      </plugins>
     </pluginManagement>
     
   </build>
